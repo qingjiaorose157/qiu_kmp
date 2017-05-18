@@ -1,0 +1,2 @@
+# qiu_kmp
+tryByMySelf
